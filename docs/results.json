@@ -1,6 +1,6 @@
 {
-  "base_date": "20260803",
-  "generated_at": "2026-08-03T11:09:22.607277",
+  "base_date": "20260804",
+  "generated_at": "2026-08-04T07:00:56.273615",
   "conditions": {
     "rsi_threshold": 30,
     "disparity_ma_period": 20,
